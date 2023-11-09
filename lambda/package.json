@@ -1,0 +1,13 @@
+{
+  "name": "image-rekognition",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-rekognition": "^3.441.0",
+    "@aws-sdk/credential-providers": "^3.441.0",
+    "@aws-sdk/lib-dynamodb": "^3.444.0",
+    "fetch-h2": "^3.0.2"
+  }
+}
